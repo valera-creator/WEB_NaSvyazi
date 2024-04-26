@@ -1,5 +1,5 @@
-<p>pip install -r requirements.txt - скачать библиотеки</p>
-<p>добавление библиотек в requirements.txt происходило за счет команды pip freeze > requirements.txt</p><hr>
+<p>pip install -r requirements.txt - скачать библиотеки<br>
+добавление библиотек в requirements.txt происходило за счет команды pip freeze > requirements.txt</p><hr>
 
 <p>
 Данный проект по вебу в яндекс лицее представляет собой мессенджер. В нем вы можете общаться.
