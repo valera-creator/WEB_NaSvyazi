@@ -1,7 +1,4 @@
-<p>pip install -r requirements.txt - скачать библиотеки<br>
-добавление библиотек в requirements.txt происходило за счет команды pip freeze > requirements.txt</p><hr>
-
-<h4 align="center">WEB Проект Социальная сеть "NaSvyazi">
+<h4 align="center">WEB Проект Социальная сеть "NaSvyazi"
 <h4 align="right" style="margin-top: 1px;">
     Реализовали: Сахаров Илья<br>
 	Ларионов Валерий<br>
@@ -9,6 +6,10 @@
     Преподаватель: Адрианова Алла Михайловна
 </h4>
 <hr>
+
+<p>pip install -r requirements.txt - скачать библиотеки<br>
+добавление библиотек в requirements.txt происходило за счет команды pip freeze > requirements.txt</p><hr>
+
 <p>
 Данный проект по вебу в яндекс лицее представляет собой мессенджер. В нем вы можете общаться.
 Помимо этого здесь присутствует добавление новостей, загрузка аватарок.
